@@ -9,7 +9,7 @@ To see the CSP bypass in action, follow these steps:
 1. Clone the repository: `git clone https://github.com/wang-on-top/CSP-Request-Bypass.git`
 2. Install Express `npm install express`
 3. Start the server `node server.js`
-4. Edit the `serverURL` to be yours, and add the data you want to send to the `data` variable,
+4. Edit the `serverURL` to be yours, and add the data you want to send to the `data` variable.
 5. Inject script.js into console.
 6. The fake token will show up in the server console.
 
