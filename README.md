@@ -1,6 +1,6 @@
 # CSP Request Bypass
 
-This is a method to send requests bypassing CSP in browser console
+This is a method to send requests bypassing CSP in browser console.
 
 ## Usage
 
