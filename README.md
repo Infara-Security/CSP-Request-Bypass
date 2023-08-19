@@ -6,7 +6,7 @@ This is a method to send requests bypassing CSP in browser console.
 
 To see the CSP bypass in action, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/wang-on-top/CSP-Request-Bypass.git`
+1. Clone the repository: `git clone https://github.com/Infara-Security/CSP-Request-Bypass.git`
 2. Install Express `npm install express`
 3. Start the server `node server.js`
 4. Edit `script.js`
